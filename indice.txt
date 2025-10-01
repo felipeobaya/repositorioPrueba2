@@ -1,2 +1,4 @@
 Capitulo1: Introduccion a git 
 Capitulo 2: Flujo de trabajo b sico 
+Capitulo 3: Mergear cambios
+
